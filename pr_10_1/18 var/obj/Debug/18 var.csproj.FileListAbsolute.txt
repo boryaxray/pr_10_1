@@ -1,0 +1,7 @@
+C:\Users\305-6\Desktop\Жеребцев15.01\18 var\bin\Debug\18 var.exe.config
+C:\Users\305-6\Desktop\Жеребцев15.01\18 var\bin\Debug\18 var.exe
+C:\Users\305-6\Desktop\Жеребцев15.01\18 var\bin\Debug\18 var.pdb
+C:\Users\305-6\Desktop\Жеребцев15.01\18 var\obj\Debug\18 var.csproj.AssemblyReference.cache
+C:\Users\305-6\Desktop\Жеребцев15.01\18 var\obj\Debug\18 var.csproj.CoreCompileInputs.cache
+C:\Users\305-6\Desktop\Жеребцев15.01\18 var\obj\Debug\18 var.exe
+C:\Users\305-6\Desktop\Жеребцев15.01\18 var\obj\Debug\18 var.pdb

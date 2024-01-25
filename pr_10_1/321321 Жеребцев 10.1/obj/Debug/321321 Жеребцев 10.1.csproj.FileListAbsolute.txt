@@ -1,0 +1,7 @@
+C:\Users\305-6\Desktop\Жеребцев15.01\321321 Жеребцев 10.1\bin\Debug\321321 Жеребцев 10.1.exe.config
+C:\Users\305-6\Desktop\Жеребцев15.01\321321 Жеребцев 10.1\bin\Debug\321321 Жеребцев 10.1.exe
+C:\Users\305-6\Desktop\Жеребцев15.01\321321 Жеребцев 10.1\bin\Debug\321321 Жеребцев 10.1.pdb
+C:\Users\305-6\Desktop\Жеребцев15.01\321321 Жеребцев 10.1\obj\Debug\321321 Жеребцев 10.1.csproj.AssemblyReference.cache
+C:\Users\305-6\Desktop\Жеребцев15.01\321321 Жеребцев 10.1\obj\Debug\321321 Жеребцев 10.1.csproj.CoreCompileInputs.cache
+C:\Users\305-6\Desktop\Жеребцев15.01\321321 Жеребцев 10.1\obj\Debug\321321 Жеребцев 10.1.exe
+C:\Users\305-6\Desktop\Жеребцев15.01\321321 Жеребцев 10.1\obj\Debug\321321 Жеребцев 10.1.pdb
